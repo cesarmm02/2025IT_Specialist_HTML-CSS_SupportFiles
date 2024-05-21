@@ -1,6 +1,6 @@
 ﻿body {
     font-family:'Segoe UI', Tahoma, sans-serif;
-    background-color: #f7d2aa
+    background-color: #f7d2aa;
 }
 p {
     color: navy;
@@ -35,7 +35,7 @@ figcaption {
     border-left-width:2px;
     border-right-width:2px;*/
     border: 2px solid navy;
-    color: #333333;
+    color: #f7d2aa;
 }
 #pagewidth{
     width: 500px;
