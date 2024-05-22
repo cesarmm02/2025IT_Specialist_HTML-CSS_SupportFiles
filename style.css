@@ -2,3 +2,8 @@ h1 {
   color: #ffb83c;
   font-size: 5em;
 }
+#title {
+  text-align: center;
+  font-family: Tahoma, 'Segoe UI', sans-serif;
+  font-weight: bold;
+}
