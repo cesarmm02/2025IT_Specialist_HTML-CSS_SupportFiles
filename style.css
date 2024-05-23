@@ -9,13 +9,13 @@ li {
   /*display: block;*/
   float: left;
 }
-li a {
+li a, .dropbtn {
   color: #999;
   text-align: center;
   padding: 14px 16px;
   display: inline-block;
 }
-li a:hover {
+li a:hover, dropbtn {
   background-color: #111;
 }
 .active {
