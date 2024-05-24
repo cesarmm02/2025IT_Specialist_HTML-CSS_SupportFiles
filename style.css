@@ -3,11 +3,15 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #facc28;
+  background-color: #333;
 }
 
 li {
   float: left;
+}
+
+li a:hover, .dropDown:hover .dropBtn {
+  background-color: #facc28;
 }
 
 li a, .dropBtn {
@@ -15,23 +19,10 @@ li a, .dropBtn {
   color: #999;
   text-align: center;
   padding: 14px 16px;
+  text-decoration: none;
 }
 
 li.dropDown {
-  display: inline-block;
-}
-
-.dropBtn {
-  background-color: #facc28;
-  color: black;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
-.dropDown {
-  position: relative;
   display: inline-block;
 }
 
@@ -47,16 +38,16 @@ li.dropDown {
 .dropDown-content a {
   color: black;
   padding: 12px 16px;
-  text-align: left;
   text-decoration: none;
   display: block;
+  text-align: left;
 }
 
 .dropDown-content a:hover {
-  background-color: #f1f1f1
+  background-color: #f1f1f1;
 }
 
-.dropDown:hover .dropDown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
