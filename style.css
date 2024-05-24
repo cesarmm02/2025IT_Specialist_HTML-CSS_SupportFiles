@@ -28,7 +28,7 @@ ul {
   background-color: #facc28;
 }
 li {
-  /*display: block;*/
+  display: block;
   float: left;
 }
 li a, .dropbtn {
