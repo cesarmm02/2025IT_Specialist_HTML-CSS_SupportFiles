@@ -24,6 +24,7 @@ li a, .dropBtn {
 
 li.dropDown {
   display: inline-block;
+  width: 16%;
 }
 
 .dropDown-content {
@@ -60,12 +61,14 @@ h1{
   font-size: 5em;
   font-weight: bold;
   font-variant: small-caps;
+  color: #facc28;
 }
 
 h2{
   font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
   font-size: 2em;
   font-weight: bold;
+  color: #facc28;
 }
 banner{
   background-color: #2b2a2a;
