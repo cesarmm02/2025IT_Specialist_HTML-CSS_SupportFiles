@@ -83,6 +83,7 @@ h2{
 	right: 5px;
 	width: 75%; 
 	margin: 5px;
+	border: 2px dotted #facc28;
 }
 
 .left{
@@ -90,4 +91,5 @@ h2{
 	left: 5px;
 	width: 25%;
 	margin: 5px;
+	border: 2px dotted #facc28;
 }
