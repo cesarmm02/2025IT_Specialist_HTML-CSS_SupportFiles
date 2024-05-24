@@ -1,3 +1,7 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -56,7 +60,6 @@ li.dropDown {
 }
 
 h1{
-  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
   font-size: 5em;
   font-weight: bold;
   font-variant: small-caps;
@@ -64,8 +67,6 @@ h1{
 }
 
 h2{
-  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
-  font-size: 2em;
   font-weight: bold;
   color: #facc28;
 }
