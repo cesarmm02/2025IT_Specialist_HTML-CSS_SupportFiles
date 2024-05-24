@@ -69,11 +69,11 @@ h2{
   font-weight: bold;
   color: #facc28;
 }
-banner{
+.banner{
   background-color: white;
   text-align: center;
 }
 
-container{
+.container{
   background-color: #262626
 }
