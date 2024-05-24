@@ -20,3 +20,18 @@ li a:hover, dropbtn {
 .dropDown:hover .dropDown-content {
   display: block;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #facc28;
+}
+li {
+  /*display: block;*/
+  float: left;
+}
+li a, .dropbtn {
+  color: #999;
+  text-align: center;
+  padding: 14px 16px;
+}
