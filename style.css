@@ -1,3 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #facc28;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: #999;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
 .dropBtn {
   background-color: #facc28;
   color: black;
@@ -39,27 +62,4 @@
 
 .dropDown:hover .dropBtn {
   background-color: #3e8e41;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #facc28;
-}
-
-li {
-  float: left;
-}
-
-li a, .dropbtn {
-  display: inline-block;
-  color: #999;
-  text-align: center;
-  padding: 14px 16px;
-}
-
-li.dropdown {
-  display: inline-block;
 }
