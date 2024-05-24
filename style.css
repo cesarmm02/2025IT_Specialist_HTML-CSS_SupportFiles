@@ -42,7 +42,7 @@ navi{
   height: 50px
 }*/
 
-button.dropBtn {
+.dropBtn {
   background-color: #facc28;
   color: black;
   padding: 16px;
