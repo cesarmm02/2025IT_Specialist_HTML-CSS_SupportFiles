@@ -77,3 +77,16 @@ h2{
 .container{
   background-color: #262626
 }
+.right{
+	position: absolute;
+	right: 5px;
+	width: 75%; 
+	margin: 5px;
+}
+
+.left{
+	position: absolute;
+	left: 5px;
+	width: 25%;
+	margin: 5px;
+}
