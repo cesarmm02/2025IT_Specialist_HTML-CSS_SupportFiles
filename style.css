@@ -24,7 +24,6 @@ li a, .dropBtn {
 
 li.dropDown {
   display: inline-block;
-  width: 16%;
 }
 
 .dropDown-content {
