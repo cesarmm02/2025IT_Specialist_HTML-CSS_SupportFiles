@@ -81,15 +81,17 @@ h2{
 .right{
 	position: absolute;
 	right: 5px;
-	width: 75%; 
+	width: 85%; 
 	margin: 5px;
 	border: 2px dotted #facc28;
+	background-color: #262626
 }
 
 .left{
 	position: absolute;
 	left: 5px;
-	width: 25%;
+	width: 10%;
 	margin: 5px;
 	border: 2px dotted #facc28;
+	background-color: #262626
 }
