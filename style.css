@@ -17,7 +17,7 @@ li {
 }
 
 li a:hover, .dropDown:hover .dropBtn {
-  background-color: #998650;
+  background-color: #595A4A;
 }
 
 li a, .dropBtn {
@@ -35,7 +35,7 @@ li.dropDown {
 .dropDown-content {
   display: none;
   position: absolute;
-  background-color: #595A4A;
+  background-color: #998650;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
