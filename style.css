@@ -120,6 +120,16 @@ h2{
 	background-color: #88BAA2;
 }
 
+links a{
+	text-decoration: none;
+}
+links a:active{
+	color: white;
+}
+links a:visited{
+	color: #32213A;
+}
+
 .links:hover {
 	background-color: #213B2F;
 }
