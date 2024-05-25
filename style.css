@@ -1,5 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+  background-color: #FAF3DD;
 }
 
 ul {
@@ -71,7 +72,6 @@ h2{
   color: #9A879D;
 }
 .banner{
-  background-color: #FAF3DD;
   text-align: center;
 }
 
