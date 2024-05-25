@@ -34,6 +34,7 @@ li.dropDown {
 
 .dropDown-content {
   display: none;
+  overflow: auto
   position: absolute;
   background-color: #4DA167;
   min-width: 160px;
