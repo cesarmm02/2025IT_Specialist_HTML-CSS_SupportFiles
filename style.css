@@ -35,7 +35,7 @@ li.dropDown {
 .dropDown-content {
   display: none;
   position: absolute;
-  background-color: #32908F;
+  background-color: #88BAA2;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -50,7 +50,7 @@ li.dropDown {
 }
 
 .dropDown-content a:hover {
-  background-color: #3F4045;
+  background-color: #213B2F;
 }
 
 .dropDown:hover .dropDown-content {
