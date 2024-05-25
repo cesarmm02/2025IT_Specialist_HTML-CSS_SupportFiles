@@ -22,7 +22,7 @@ li a:hover, .dropDown:hover .dropBtn {
 
 li a, .dropBtn {
   display: inline-block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -35,7 +35,7 @@ li.dropDown {
 .dropDown-content {
   display: none;
   position: absolute;
-  background-color: #998650;
+  background-color: #32908F;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -50,7 +50,7 @@ li.dropDown {
 }
 
 .dropDown-content a:hover {
-  background-color: #2C6E49;
+  background-color: #3F4045;
 }
 
 .dropDown:hover .dropDown-content {
@@ -58,7 +58,7 @@ li.dropDown {
 }
 
 .dropDown:hover .dropBtn {
-  background-color: #2C6E49;
+  background-color: #30292F;
 }
 
 h1{
