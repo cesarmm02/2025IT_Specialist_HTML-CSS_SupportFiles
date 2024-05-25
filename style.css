@@ -84,6 +84,7 @@ h2{
 	right: 5px;
 	width: 85%; 
 	margin: 5px;
+	padding: 5px;
 	border: 2px dotted #9A879D;
 	background-color: #32213A
 }
@@ -91,8 +92,9 @@ h2{
 .left{
 	position: absolute;
 	left: 5px;
-	width: 10%;
+	width: 14%;
 	margin: 5px;
+	padding: 5px;
 	border: 2px dotted #9A879D;
 	background-color: #32213A
 }
