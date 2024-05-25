@@ -94,10 +94,10 @@ h2{
 }
 
 .right p{
-	font-size: 2em
+	font-size: 1em
 }
 .right h2{
-	font-size: 3em
+	font-size: 2em
 }
 
 .left{
@@ -109,13 +109,13 @@ h2{
 	border: 2px dotted #9A879D;
 	background-color: #32213A
 }
-#links{
+.links{
 	width: 10%
 	margin: 5px;
 	padding: 5px;
 	background-color: #88BAA2
 }
 
-#links:hover {
+.links:hover {
 	background-color: #213B2F;
 }
