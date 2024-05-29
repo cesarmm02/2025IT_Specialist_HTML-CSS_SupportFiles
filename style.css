@@ -10,9 +10,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #9A879D;
-  position: relative;
-  top: 0;
-  width: 100%;
 }
 
 li {
@@ -58,10 +55,6 @@ li.dropDown {
 
 .dropDown:hover .dropDown-content {
   display: block;
-}
-
-.dropDown:hover .dropBtn {
-  background-color: #32213A;
 }
 
 h1{
